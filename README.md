@@ -43,11 +43,11 @@ Open `http://localhost:10902/` and write a query like `heap{job="pprof-example-a
 
 Here's a screenshot of what that might look like after a few minutes of running.
 
-![conprof screenshot](https://raw.githubusercontent.com/conprof/conprof/master/screenshot.png)
+![conprof screenshot](./screenshot.png)
 
 When clicking on a sample the pprof UI included in the [`pprof`](https://github.com/google/pprof) toolchain, will be opened. An example could be:
 
-![pprof UI screenshot](https://raw.githubusercontent.com/conprof/conprof/master/pprofui.png)
+![pprof UI screenshot](./pprofui.png)
 
 ## Build
 
